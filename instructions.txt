@@ -3,7 +3,7 @@ If you don't have NodeJS install it from following website.
 
 	- https://nodejs.org/en/
 
-For Windows users need to Install Git terminal to run this program on windows
+Windows users need to Install Git terminal to run this program on windows
 
 download this terminal from 
 - https://git-scm.com/downloads
@@ -12,9 +12,9 @@ download this terminal from
 
 1)  Open Terminal and Cd to the dir which you downloaded from git hub.
 
-2) Type Commend "NPM install" to install all the dependencies.
+2) Type command "NPM install" to install all the dependencies.
 
-3) Type Commend {node spoiler.js "movie_name" number_of_seconds_to_wait_before_spoiler} to run this program
+3) Type command {node spoiler.js "movie_name" number_of_seconds_to_wait_before_spoiler} to run this program
 
 4) Example Command: node spoiler.js "Arrival" 15
 
